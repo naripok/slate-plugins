@@ -1,4 +1,4 @@
-import { createEditor } from 'slate';
+import { createEditor } from '@naripok/slate';
 import { onKeyDownPlugins } from '../../utils';
 
 const event = {} as Event;

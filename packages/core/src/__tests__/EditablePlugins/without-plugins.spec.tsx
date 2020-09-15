@@ -1,8 +1,8 @@
 import React, { useMemo, useState } from 'react';
 import { render } from '@testing-library/react';
-import { createEditor, Node } from 'slate';
-import { withHistory } from 'slate-history';
-import { Slate, withReact } from 'slate-react';
+import { createEditor, Node } from '@naripok/slate';
+import { withHistory } from '@naripok/slate-history';
+import { Slate, withReact } from '@naripok/slate-react';
 import { pipe } from '../../../../slate-plugins/src/common/utils/pipe';
 import { EditablePlugins } from '../../components';
 

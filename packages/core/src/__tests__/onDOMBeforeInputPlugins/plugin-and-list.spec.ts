@@ -1,4 +1,4 @@
-import { createEditor } from 'slate';
+import { createEditor } from '@naripok/slate';
 import { onDOMBeforeInputPlugins } from '../../utils';
 
 const event = {} as Event;

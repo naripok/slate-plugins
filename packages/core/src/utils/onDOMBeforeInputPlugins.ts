@@ -1,4 +1,4 @@
-import { Editor } from 'slate';
+import { Editor } from '@naripok/slate';
 import { OnDOMBeforeInput, SlatePlugin } from '../types';
 
 export const onDOMBeforeInputPlugins = (

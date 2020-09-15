@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { RenderElementProps } from 'slate-react';
+import { RenderElementProps } from '@naripok/slate-react';
 import { RenderElement, SlatePlugin } from '../types';
 
 export const renderElementPlugins = (

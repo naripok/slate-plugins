@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { RenderLeafProps } from 'slate-react';
+import { RenderLeafProps } from '@naripok/slate-react';
 import { RenderLeaf, SlatePlugin } from '../types';
 
 export const renderLeafPlugins = (

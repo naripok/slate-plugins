@@ -1,5 +1,5 @@
-import { Editor, NodeEntry, Range } from 'slate';
-import { RenderElementProps, RenderLeafProps } from 'slate-react';
+import { Editor, NodeEntry, Range } from '@naripok/slate';
+import { RenderElementProps, RenderLeafProps } from '@naripok/slate-react';
 
 /**
  * Decorations are another type of text-level formatting.

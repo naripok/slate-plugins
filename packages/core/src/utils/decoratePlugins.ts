@@ -1,4 +1,4 @@
-import { Editor, NodeEntry, Range } from 'slate';
+import { Editor, NodeEntry, Range } from '@naripok/slate';
 import { Decorate, SlatePlugin } from '../types';
 
 export const decoratePlugins = (
